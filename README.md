@@ -7,3 +7,13 @@
 5. https://erocoar.github.io/gghalves/
 6. https://dbplyr.tidyverse.org/
 7. https://adv-r.hadley.nz/
+8. https://github.com/wleepang/DesktopDeployR
+9. https://guangchuangyu.github.io/
+10. https://ficonsulting.github.io/RInno/
+11. https://openbiox.github.io/Cookbook-for-R-Chinese/
+12. https://github.com/s6juncheng/ggpval
+13. https://github.com/const-ae/ggsignif
+14. https://daattali.com/shiny/colourInput/
+15. https://pkg.garrickadenbuie.com/gentle-ggplot2/
+16. https://github.com/gadenbuie/ggpomological
+17. https://github.com/nsgrantham/ggdark
