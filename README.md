@@ -17,3 +17,8 @@
 15. https://pkg.garrickadenbuie.com/gentle-ggplot2/
 16. https://github.com/gadenbuie/ggpomological
 17. https://github.com/nsgrantham/ggdark
+18. https://rstudio.cloud/learn/primers
+19. https://rstudio-education.github.io/hopr/
+20. https://r-bootcamp.netlify.com/
+21. https://r4ds.had.co.nz/
+22. https://mdsr-book.github.io/
