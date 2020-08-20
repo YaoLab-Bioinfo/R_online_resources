@@ -23,3 +23,14 @@
 21. https://r4ds.had.co.nz/
 22. https://mdsr-book.github.io/
 23. https://mastering-shiny.org/index.html
+24. https://csgillespie.github.io/efficientR/
+25. https://moderndive.com/
+26. https://bookdown.org/yihui/bookdown/
+27. https://bookdown.org/yihui/rmarkdown/
+28. https://bookdown.org/yihui/blogdown/
+29. https://r-graphics.org/
+30. https://www.tidytextmining.com/
+31. https://bookdown.org/rdpeng/rprogdatascience/
+32. https://rstudio-education.github.io/hopr/
+33. https://socviz.co/
+
