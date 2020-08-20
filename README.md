@@ -22,3 +22,4 @@
 20. https://r-bootcamp.netlify.com/
 21. https://r4ds.had.co.nz/
 22. https://mdsr-book.github.io/
+23. https://mastering-shiny.org/index.html
